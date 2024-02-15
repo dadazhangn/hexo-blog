@@ -9,7 +9,7 @@ categories:
     -教程
     -Jieba
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
-cover: https://my-blog-dadazhang.oss-cn-beijing.aliyuncs.com/haimain/pdx.jpg
+cover: https://s2.loli.net/2024/02/14/vZyht9pO4kPVoKM.jpg
 
 copyright_author: dadazhang
 copyright_author_href: https://dadazhangn.com

@@ -1,6 +1,6 @@
 ---
 title: 这是一个demo
-cover: https://my-blog-dadazhang.oss-cn-beijing.aliyuncs.com/paidax%2Bnezha.jpg
+cover: https://s2.loli.net/2024/02/14/s5fX3UHbq4pAMNk.jpg
 categories: 
   - demo
 tags:

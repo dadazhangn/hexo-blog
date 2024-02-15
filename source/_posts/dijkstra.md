@@ -6,7 +6,7 @@ categories:
 tags:
   - Dijkstra
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
-cover: https://my-blog-dadazhang.oss-cn-beijing.aliyuncs.com/haimain/rabbit.jpg
+cover: https://s2.loli.net/2024/02/14/Uyfg3BL9XYASjIP.jpg
 ---
 
 
@@ -29,7 +29,7 @@ import heapq
 def dijkstra(graph, start):
     # 初始化节点到起始节点的距离为无穷大
     distances = {node: float('inf') for node in graph}
-    # 起始节点到自身的距离为 0
+    # 起始节点到自身的距离为 0    
     distances[start] = 0
     
     # 使用优先级队列存储节点和其对应的距离

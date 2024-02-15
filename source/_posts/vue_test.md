@@ -1,6 +1,6 @@
 ---
 title: Vue_Test学习笔记
-cover: https://my-blog-dadazhang.oss-cn-beijing.aliyuncs.com/yushen.jpeg
+cover: https://s2.loli.net/2024/02/14/QtfVuN21ex3WlvZ.jpg
 categories: 
   - 学习
 tags:

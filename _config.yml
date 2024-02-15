@@ -8,7 +8,7 @@ subtitle: '自产自销,全国可飞3'
 description: '站长是个懒蛋，随缘更新'
 keywords:
 author: Dada Zhang
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -161,3 +161,7 @@ douban:
     quote: 'This is my song quote'
     option:
   timeout: 10000 
+
+aplayer:
+  meting: true
+  asset_inject: false
