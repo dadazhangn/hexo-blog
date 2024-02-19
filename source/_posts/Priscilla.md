@@ -61,6 +61,8 @@ w:Rock-y did-nt like that
   ```
 
   ![](https://s2.loli.net/2024/02/14/rqKEl4s3c8JDQmo.jpg)
+  ![](https://s2.loli.net/2024/02/15/ijQGDFWdpcRsE2e.gif)
+  ![](https://s2.loli.net/2024/02/15/3I4aY8lsSTCcrjO.gif)
     {% label 我永远热爱珍珠翡翠白玉汤 red %} {% inlineImg https://s2.loli.net/2024/02/14/3eaMTF7BzvwSQfd.jpg 150px %}
 
 
