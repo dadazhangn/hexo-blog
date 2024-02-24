@@ -4,7 +4,7 @@
 
 # Site
 title: Dada Zhang的小站
-subtitle: '自产自销,全国可飞3'
+subtitle: '自产自销,全国可飞'
 description: '站长是个懒蛋，随缘更新'
 keywords:
 author: Dada Zhang
@@ -103,8 +103,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  # repo: git@dadazhangn:/www/repo/hexo.git
-  repo: https://github.com/dadazhangn/dadazhangn.github.io.git
+  repo: git@dadazhangn.com:/www/repo/hexo.git
+  # repo: https://github.com/dadazhangn/dadazhangn.github.io.git
   branch: master
 
 # Deployment
