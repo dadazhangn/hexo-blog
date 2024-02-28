@@ -1,5 +1,6 @@
 {
   "name": "hexo-site",
+  "type": "module",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -27,7 +28,13 @@
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
+    "hexo-theme-butterfly": "^4.13.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1"
-  }
+  },
+  "description": "> 本倉庫同時上傳到 [Gitee](https://gitee.com/immyw/hexo-theme-butterfly.git)，如果你訪問 Github 緩慢，可從 Gitee 中下載。",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
