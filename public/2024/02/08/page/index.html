@@ -288,7 +288,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><div class="js-
       dark: 'html[data-theme="dark"]',
       path: window.location.pathname,
       comment: false,
-    }, null))
+    }, {"emoji":["//unpkg.com/@waline/emojis@1.1.0/bilibili","//unpkg.com/@waline/emojis@1.1.0/qq","//unpkg.com/@waline/emojis@1.1.0/tieba"],"reaction":true,"locale":{"nick":"昵称","mail":"邮箱","link":"你的网站","placeholder":"填写数字QQ邮箱可以自动获取QQ头像哦~","requiredMeta":[],"sofa":"评论区空空如也~呜呜呜","anonymous":"匿名的野猫","login":"登录(可选)"}}))
 
     const destroyWaline = () => {
       waline.destroy()
@@ -300,7 +300,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><div class="js-
   const loadWaline = async () => {
     if (initFn) initWaline(initFn)
     else {
-      await getCSS('https://cdn.jsdelivr.net/npm/@waline/client/dist/waline.min.css')
+      await getCSS('/css/waline.min.css')
       const { init } = await import('https://cdn.jsdelivr.net/npm/@waline/client/dist/waline.min.js')
       initFn = init || Waline.init
       initWaline(initFn)
