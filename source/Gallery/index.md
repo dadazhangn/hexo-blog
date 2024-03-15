@@ -27,6 +27,8 @@
 ![](https://s2.loli.net/2024/02/14/HKeOaL48d3vlj9h.jpg)
 ![](https://s2.loli.net/2024/02/14/OboDBm6vT3HyWLw.jpg)
 
+![](  http://www.news.cn/photo/20240315/0f06acdf28044ea5…b4d0f8efb201/52f1a3d9f0f14bd5a920e837fe0ac8f4.jpg)
+
 {% endgallery %}
 
 
