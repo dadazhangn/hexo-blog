@@ -13,8 +13,12 @@ keywords:
 description: 功能测试的常用方法
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 date: 2024-03-16 14:10:57
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
 ---
-[toc]
+<!-- [toc] -->
 
 #		功能测试的常用方法
 

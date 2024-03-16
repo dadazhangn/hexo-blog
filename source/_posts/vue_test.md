@@ -13,6 +13,10 @@ keywords:
 description: Vue_Test笔记
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 date: 2024-01-08 18:06:07
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
 ---
 ## 脚手架文件结构
 

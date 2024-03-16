@@ -9,6 +9,10 @@ tags:
   - 歌词
 description: Wilcza zamieć（英语：Wolven Storm; 狼之风暴）是由CD Projekt RED所创作的游戏《巫师3：狂猎》中的插入曲（IN），由角色普西拉（卡伦妮塔）演唱，又名普西拉之歌（Priscilla the Callonetta's song）。按游戏的语言版本，有波兰语、英语、法语、德语、俄语、巴西葡萄牙语、日语、汉语8个唱版，和包括繁体中文在内的15种官方译本。单曲《The Wolven Storm》于2015年8月26日在iTunes上架发行。
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
 ---
 
 {% score %}

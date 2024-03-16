@@ -18,7 +18,10 @@ toc:
   expand: false
   style_simple: false # for post
   scroll_percent: true
-
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

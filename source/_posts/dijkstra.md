@@ -7,6 +7,10 @@ tags:
   - Dijkstra
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 cover: https://s2.loli.net/2024/02/14/Uyfg3BL9XYASjIP.jpg
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
 ---
 
 

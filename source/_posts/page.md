@@ -8,6 +8,10 @@ tags:
   - demo
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 cover: https://s2.loli.net/2024/02/14/AtQwLpRSBO6FmxJ.jpg
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
 # mathjax: true
 ---
 臣亮言：{% label 先帝 %}创业未半，而{% label 中道崩殂 blue %}。今天下三分，{% label 益州疲敝 pink %}，此诚{% label 危急存亡之秋 red %}也！然侍衞之臣，不懈于内；{% label 忠志之士 purple %}，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。
