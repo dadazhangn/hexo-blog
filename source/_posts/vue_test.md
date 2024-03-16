@@ -8,8 +8,8 @@ tags:
   - Vue
   - 学习
 keywords:
-  -Vue
-  -尚硅谷
+  - Vue
+  - 尚硅谷
 description: Vue_Test笔记
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 date: 2024-01-08 18:06:07

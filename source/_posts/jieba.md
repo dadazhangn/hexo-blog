@@ -6,8 +6,8 @@ tags:
     - 主题
     - demo
 categories:
-    -教程
-    -Jieba
+    - 教程
+    - Jieba
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 cover: https://s2.loli.net/2024/02/14/vZyht9pO4kPVoKM.jpg
 

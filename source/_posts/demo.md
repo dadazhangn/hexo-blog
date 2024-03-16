@@ -7,9 +7,9 @@ tags:
   - demo
   - 示例
 keywords:
-  -Hexo
-  -Quick Start
-  -dada
+  - Hexo
+  - Quick Start
+  - dada
 description: 对学习的一些笔记认知
 toc:
   post: true

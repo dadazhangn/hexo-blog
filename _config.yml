@@ -103,9 +103,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  # repo: git@dadazhangn.com:/www/repo/hexo.git
-  repo: https://github.com/dadazhangn/dadazhangn.github.io.git
+  repo: git@dadazhangn.com:/www/repo/hexo.git
+  # repo: https://github.com/dadazhangn/dadazhangn.github.io.git
   branch: master
+  # branch: main
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

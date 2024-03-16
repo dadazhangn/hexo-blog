@@ -5,8 +5,8 @@ tags:
     - Python
     - 演示
 categories:
-    -教程
-    -Python
+    - 教程
+    - Python
 top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 cover: https://s2.loli.net/2024/02/14/C61grt9mWGesiu4.jpg
 
