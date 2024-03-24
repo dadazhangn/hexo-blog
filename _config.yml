@@ -146,7 +146,7 @@ douban:
   #   quote: 'This is my book quote'
   #   option:
   movie:
-  #  hexo douban -m
+  #    hexo douban -m
     path: movies/index.html 
     title: '记录点滴生活'
     quote: '没有你们我怎么活'
