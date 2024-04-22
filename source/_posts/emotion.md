@@ -197,7 +197,7 @@ copyright_info: 此文章版权归公共所有，欢迎转载。
 
 ## 使用预构建 docker 镜像的 API 使用
 ### 拉取最新的构建镜像
-`docker pull deusnexus/emotion_classification:latest`
+`docker pull dadazhang55/emotion_tensorflow:latest`
 ### 运行容器
 `docker run --name emotion_prediction_container -p 8000:8000 emotion_prediction_fastapi:latest`
 ### 在本地主机上打开 API
