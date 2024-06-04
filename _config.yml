@@ -116,6 +116,10 @@ deploy:
 #   branch: master # 注意此处分支设定,需在仓库中选择默认的分支
 
 
+# hexo clean 
+# hexo deploy -g
+# hexo douban -m
+# hexo deploy -g
 
 kramed:
   gfm: true
