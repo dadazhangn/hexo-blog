@@ -1,3 +1,23 @@
+---
+title: Rust 学习笔记（一）
+cover: https://s2.loli.net/2024/02/14/QtfVuN21ex3WlvZ.jpg
+categories: 
+  - 学习
+toc: true
+tags:
+  - Rust
+  - 学习
+keywords:
+  - Rust
+  - Rust语言圣经
+description: Vue_Test笔记
+top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
+date: 2024-06-04 14:36:27
+copyright_author: dadazhang
+copyright_author_href: https://dadazhangn.com
+copyright_url: https://dadazhangn.com
+copyright_info: 此文章版权归公共所有，欢迎转载，
+---
 #  Rust 学习笔记（一）
 
 ## [变量绑定与解构](https://course.rs/basic/variable.html#变量绑定与解构)
